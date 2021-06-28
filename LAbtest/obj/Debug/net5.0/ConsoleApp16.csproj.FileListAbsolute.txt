@@ -1,0 +1,16 @@
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.csprojAssemblyReference.cache
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.AssemblyInfoInputs.cache
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.AssemblyInfo.cs
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.csproj.CoreCompileInputs.cache
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.exe
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.deps.json
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.runtimeconfig.json
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.runtimeconfig.dev.json
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.dll
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\bin\Debug\net5.0\ref\ConsoleApp16.dll
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\bin\Debug\net5.0\ConsoleApp16.pdb
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.dll
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ref\ConsoleApp16.dll
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.pdb
+E:\Download\ConsoleApp16-master\ConsoleApp16-master\ConsoleApp16\obj\Debug\net5.0\ConsoleApp16.genruntimeconfig.cache
